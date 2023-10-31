@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @Sanjay-Gowda
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning Python
-- 📫 How to reach me instagram:- @_sanjay.s_
